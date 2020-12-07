@@ -1,5 +1,5 @@
 # PulseEffects-SpolenFX
 My personal presets for PulseEffects
 
-#Installation
+# Installation
 Place .json file in ~/.config/PulseEffects/output/
